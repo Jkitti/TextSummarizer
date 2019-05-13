@@ -1,0 +1,10 @@
+Python modules
+
+This code has dependencies on several other Python projects:
+
+    spaCy
+    NetworkX
+    datasketch
+    graphviz
+
+Rouge 2.0
